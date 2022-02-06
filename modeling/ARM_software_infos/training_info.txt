@@ -1,0 +1,3 @@
+Threshold,0.0022
+Min train value,-0.197998
+Max train value,0.248779
