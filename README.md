@@ -6,7 +6,7 @@ More informations coming . . .
 
 ## Author
 
-Sami Foery
+Sami Föry
 
 ## Project Name
 
