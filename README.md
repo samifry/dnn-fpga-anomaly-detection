@@ -10,4 +10,4 @@ Sami Foery
 
 ## Project Name
 
-HARLAD
+dnn4hw
